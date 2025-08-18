@@ -11,8 +11,6 @@ Here are the three deliverables that are to be completed by the end of the case 
 |Work.ClaimsByAirport | New table created by summarizing claims for each airport and year from work.claims_Cleaned and then joining the summarized data with enplanement (enplanement2017, boarding2013_2016) |
 |FinalReport.html | final HTML report produced by running the ReportProgram.sas program on the prepared tables |
 
-When creating these deliverables, you might need to create other temporary tables or views.
-
 **Data Information**<br>
 Sources
 The tables for this case study were created from the following external sources:
