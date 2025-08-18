@@ -18,7 +18,6 @@ Sources
 The tables for this case study were created from the following external sources:
 * TSA Airport Claims data from [https://www.dhs.gov/tsa-claims-data](https://www.dhs.gov/tsa-claims-data)
 * FAA Airport Facilities data from [https://www.faa.gov/airports/airport_safety/airportdata_5010/](https://www.faa.gov/airports/airport_safety/airportdata_5010/)
-* FAA Enplanements data from
-[https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/](https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/)
+* FAA Enplanements data from [https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/](https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger/)
 
 Copyright © 2021, SAS Institute Inc., Cary, North Carolina, USA. ALL RIGHTS RESERVED.
