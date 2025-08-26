@@ -1,5 +1,3 @@
-In this case study, solve a real-world business problem by applying concepts that you learned in the SAS SQL 1: Essentials course.<br>
-
 **Business Problem**<br>
 The Transportation Security Administration (TSA) is an agency of the United States Department of Homeland Security that has authority over the security of the traveling public. Passengers file claims for injury or property loss or damage that could happen at an airport screening process. Your job is to prepare and analyze TSA Airport Claims and Enplanement data from 2013 through 2017. After you prepare the tables, you create results to answer business questions.<br>
 
