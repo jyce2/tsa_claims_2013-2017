@@ -211,7 +211,7 @@ quit;
 
 /*Visualize the top20airports table*/
 ods graphics on /width=12in height=4in;
-title1 h=&TitleSize color=&TitleColor "Top 20 Airports by Highest Percetage of Claims Filed";
+title1 h=&TitleSize color=&TitleColor "Top 20 Airports by Highest Percentage of Claims Filed";
 title2 h=&TitleSize color=&TitleColor "For Airports With More Than 10 Million Passengers";
 proc sgplot data=top20airports;
 	bubble x=Enplanement y=PctClaims size=TotalClaims / group=Airport_Code
